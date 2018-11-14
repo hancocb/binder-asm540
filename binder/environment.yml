@@ -9,4 +9,3 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - geopandas
