@@ -1,4 +1,4 @@
-environment: gis-python-environment
+name: gis-python-environment
 channels:
   - conda-forge
 dependencies:
